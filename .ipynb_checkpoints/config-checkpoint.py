@@ -1,8 +1,8 @@
-URL             = "https://cas.buenosaires.gob.ar/acceso/login/login.zul?service=http://eut.gcba.gob.ar/gedo-web"
-USERNAME        = "20395531876"
-PASSWORD        = "78235514Ab?"
+url             = "https://cas.buenosaires.gob.ar/acceso/login/login.zul?service=http://eut.gcba.gob.ar/gedo-web"
+username        = "20395531876"
+password        = "78235514Ab!"
 
-COMPANIES       = {
+companies       = {
       "TELECOM": "30639453738", 
       "TELMEX": "33695098419",
       "TELEFONICA": "30639453975",
