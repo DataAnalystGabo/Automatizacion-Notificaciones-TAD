@@ -18,10 +18,3 @@ companies       = {
       "EDESUR": "30655116512",
       "EDENOR": "30655116202"
 }
-
-ADDRESS         = {
-    "Posicion 1": "Juncal 1399 esq. Azcuenaga",
-    "Posicion 2": "Av. Libertador 3000",
-    "Posicion 3": "Guillermo Rawson 295"
-    
-}
