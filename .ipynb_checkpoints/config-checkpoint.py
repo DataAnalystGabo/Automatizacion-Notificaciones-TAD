@@ -1,20 +1,26 @@
-url             = "https://cas.buenosaires.gob.ar/acceso/login/login.zul?service=http://eut.gcba.gob.ar/gedo-web"
-username        = "20395531876"
-password        = "78235514Ab!"
+URL            = "https://cas.buenosaires.gob.ar/acceso/login/login.zul?service=http://eut.gcba.gob.ar/gedo-web"
+USERNAME       = "20395531876"
+PASSWORD       = "78235514Ab!"
+USER           = "Lucas Marin( MARINL - DGFU )"
 
-companies       = {
-      "TELECOM": "30639453738", 
-      "TELMEX": "33695098419",
-      "TELEFONICA": "30639453975",
-      "TELECENTRO": "30640897267",
-      "NSS": "30702652975",
-      "BT": "30638203797",
-      "GIGARED": "30663045179",
-      "CIRION": "30626747171",
-      "CPS": "30696850972",
-      "ARSAT": "30709670413",
-      "AYSA": "30709565075",
-      "METROGAS": "30657863676",
-      "EDESUR": "30655116512",
-      "EDENOR": "30655116202"
+COMPANIES       = {
+      "TELECOM ARGENTINA SOCIEDAD ANONIMA": "30639453738", 
+      "TELMEX ARGENTINA SA": "33695098419",
+      "TELEFONICA DE ARGENTINA SA": "30639453975",
+      "TELECENTRO SA": "30640897267",
+      "NSS SA": "30702652975",
+      "BT LATAM ARGENTINA S A": "30638203797",
+      "GIGARED SA": "30663045179",
+      "CIRION TECHNOLOGIES ARGENTINA SA": "30626747171",
+      "C.P.S. COMUNICACIONES S.A.": "30696850972",
+      "EMPRESA ARGENTINA DE SOLUCIONES SATELITALES SOCIEDAD ANONIMA ARSAT": "30709670413",
+      "AGUA Y SANEAMIENTOS ARGENTINOS SOCIEDAD ANONIMA": "30709565075",
+      "METROGAS S A": "30657863676",
+      "EDESUR SA": "30655116512",
+      "EMPRESA DISTRIBUIDORA Y COMERCIALIZADORA NORTE SOCIEDAD ANONIMA (EDENOR S A)": "30655116202"
+}
+
+companies_test = {
+    "TELECOM": "30639453738", 
+     "TELMEX": "33695098419"
 }
