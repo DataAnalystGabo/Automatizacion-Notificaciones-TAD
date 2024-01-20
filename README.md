@@ -1,7 +1,7 @@
 # Automatización de tarea con Python y Selenium
 
 
-### Automatización de Envío de Correos Electrónicos
+### Introducción
 
 En este repositorio, encontrarán una solución para un desafío: el envío masivo de correos electrónicos a múltiples destinatarios utilizando Python y la librería de webscraping Selenium.
 
